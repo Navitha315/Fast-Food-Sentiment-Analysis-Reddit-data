@@ -19,9 +19,7 @@ The goal is to:
 - Libraries: `VADER`, `TextBlob`, `NLTK`, `pandas`, `NumPy`
 
 📂 Project Structure
-
-.
-├── reddit_predictive.ipynb               # Sentiment analysis notebook
-├── Sentiment_Analysis_Report.pdf         # Project report
-├── Sentiment_Analysis_Presentation.pptx  # Project presentation
-└── README.md                             # Project description and instructions
+├── reddit_predictive.ipynb              
+├── Sentiment_Analysis_Report.pdf        
+├── Sentiment_Analysis_Presentation.pptx 
+└── README.md                             
